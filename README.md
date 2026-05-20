@@ -1,3 +1,3 @@
 ### Olá! Eu sou o Marcelo 👋
 
-- 🔭 Desenvolvedor FullStack mobile senior.
+- 🔭 Desenvolvedor FullStack Mobile Senior.
