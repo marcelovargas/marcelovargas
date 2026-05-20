@@ -1,4 +1,3 @@
 ### Olá! Eu sou o Marcelo 👋
 
-- 🔭 Hoje trabalho com Xamarin.Forms
-
+- 🔭 Desenvolvedor FullStack mobile senhior.
